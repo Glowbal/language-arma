@@ -40,6 +40,5 @@ module.exports =
       rptView.moveToBottom()
       rptView.scrollToBottom()
       rptView.getBuffer().onDidReload (e) ->
-        console.log 'test'
         rptView.moveToBottom()
         rptView.scrollToBottom()
