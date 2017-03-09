@@ -747,6 +747,13 @@
               "rightLabel": "CBA Function"
             },
             {
+              "descriptionMoreURL": "http://cbateam.github.io/CBA_A3/docs/index/../files/hashes/fnc_hashSize-sqf.html#CBA_fnc_hashSize",
+              "type": "function",
+              "description": "Gets number of elements in a Hash.See CBA_fnc_hashCreate.",
+              "text": "CBA_fnc_hashSize",
+              "rightLabel": "CBA Function"
+            },
+            {
               "descriptionMoreURL": "http://cbateam.github.io/CBA_A3/docs/index/../files/common/fnc_headDir-sqf.html#CBA_fnc_headDir",
               "type": "function",
               "description": "Get the direction of a unit\u2019s head.For anyone except the local player,    the head is assumed to be facing straight forward.",
